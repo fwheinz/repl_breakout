@@ -10,3 +10,16 @@ abhaengig vom Auftreffpunkt ist. Je weiter aussen der Ball auftrifft,
 desto staerker soll der Winkel von einer normalen Reflexion abweichen.
 
 Viel Erfolg! 🍀
+
+Hinweise:
+
+Der Befehl
+**make test**
+fuehrt einige automatisierte Checks durch, ob Ihr Programm den
+Spezifikationen entspricht.
+
+Wenn Sie mit der Bearbeitung fertig sind koennen Sie das Programm mit
+dem Befehl
+**make upload**
+einreichen.
+
