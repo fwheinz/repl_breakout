@@ -1,0 +1,15 @@
+2021-11-12: Florian Heinz <florian.heinz@oth-regensburg.de>
+
+====================
+|     Breakout     |
+====================
+
+Aufgabe:
+
+Erweitern Sie das Spiel Breakout, so dass der Abprallwinkel vom Paddle
+abhaengig vom Auftreffpunkt ist. Je weiter aussen der Ball auftrifft,
+desto staerker soll der Winkel von einer normalen Reflexion abweichen.
+
+Viel Erfolg!
+
+
